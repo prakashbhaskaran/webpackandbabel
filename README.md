@@ -1,0 +1,8 @@
+# WEBPACK AND BABEL BOILERPLATE
+_LAST UPDATED JAN 7 2022_
+
+### FOR DEVELOPMENT - npm run serve
+
+### FOR PRODUCTION - npm run build
+
+#### VIEW THE PAGE IN YOUR LOCALHOST : http://localhost:5000
