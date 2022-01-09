@@ -5,4 +5,4 @@ _LAST UPDATED JAN 7 2022_
 
 ### FOR PRODUCTION - npm run build
 
-#### VIEW THE PAGE IN YOUR LOCALHOST : http://localhost:5000
+#### PORT : http://localhost:5000
